@@ -1,0 +1,1 @@
+{"version": 3, "mappings": "WAAA,CAAM,aAAN", "sources": ["hello.py"], "names": [], "sourcesContent": ["print(\"Hello World\")\n"]}
